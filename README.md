@@ -2,7 +2,7 @@
 
 ## Catalog
 * [Term Projects](#pro)
-  * Java Exercise
+  * Java Exercise(#java)
   * BUPT Contact
   * Travel Simulation System
   * Results Management System
@@ -13,9 +13,9 @@
  * [Computer Network](#Computer-Network)
  * [Assembly Execrise](#Assembly-Execrise)
        
-# <span id="pro">Term-Projects</span>
+# <h2 id='pro'>Term-Projects</h2>
 
-## Java-Exercise
+## <span id='java'>Java-Exercise</span>
 
 ### Java
 
