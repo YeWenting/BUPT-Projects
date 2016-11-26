@@ -2,9 +2,9 @@
 
 ## Catalog
        
-* [Term-Projects](#Term-Projects)
-       * [Java-Exercise](#Java-Exercise)
-       * [BUPT-Contact](#BUPT-Contact)
+* Term-Projects
+       * [Java-Exercise](#2.1)
+       * [BUPT-Contact](#2.2)
        * [Travel-Simulation-System](#Travel-Simulation-System)
        * [Results-Management-System](#Results-Management-System)
 
