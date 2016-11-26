@@ -1,7 +1,7 @@
 # BUPT Term Projects & Homework
 
 ## Catalog
-* [Term Projects](#Term-Projects)
+* [Term Projects](#pro)
   * Java Exercise
   * BUPT Contact
   * Travel Simulation System
@@ -13,7 +13,7 @@
  * [Computer Network](#Computer-Network)
  * [Assembly Execrise](#Assembly-Execrise)
        
-# Term-Projects
+# <span class="pro">Term-Projects</span>
 
 ## Java-Exercise
 
