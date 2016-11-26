@@ -7,15 +7,16 @@
   * [Travel Simulation System](#travel)
   * [Results Management System](#results)
 
-* [Homework](#Homework)
- * [OS](#OS)
- * [Design & Analysis of Algorithm](#Design&Analysis-of-Algorithm)
- * [Computer Network](#Computer-Network)
- * [Assembly Execrise](#Assembly-Execrise)
+* [Homework](#)
+ * [Assembly Execrise](https://github.com/Forec/assembly-exercise/tree/master/code/YeWenting)
+ * [OS](https://github.com/YeWenting/BUPT-Homework/tree/master/Operating%20System)
+ * [Design & Analysis of Algorithm](https://github.com/YeWenting/BUPT-Homework/tree/master/Data%20Structrue)
+ * [Computer Network](https://github.com/YeWenting/BUPT-Homework/tree/master/Computer%20Network)
+ * [Algorithm Design](https://github.com/YeWenting/BUPT-Homework/tree/master/Algorithm%20Design)
        
-# <h2 id='pro'>Term-Projects</h2>
+<h2 id='pro'>Term-Projects</h2>
 
-## <h3 id='java'>Java-Exercise</h3>
+<h3 id='java'>Java-Exercise</h3>
 
 **Junior, Object-Oriented Analysis and Design (Java)**
 
@@ -25,7 +26,7 @@ Score: Unavailable(current)
 
 It contains two homewroks now, and there will be a term project at the end of this semester
 
-See the [code](https://github.com/YeWenting/Java-Exercise)
+[See the code](https://github.com/YeWenting/Java-Exercise)
 
 ## <h3 id='site'>BUPT Contact</h3>
 
@@ -44,7 +45,7 @@ I use:
 * __jquery-validation__ to verify the validation of the input message
 * __jquery-alert__ to send pretty alert block
 
-See the [code](https://github.com/YeWenting/yewenting.github.com)
+[See the code](https://github.com/YeWenting/yewenting.github.com)
 
 ## <h3 id='results'>Results Management System</h3>
 
@@ -56,6 +57,7 @@ See the [code](https://github.com/YeWenting/yewenting.github.com)
 **Score: 100**
 
 It allows:
+ 
 1. teachers to view the students who attend his class, edit scores and see scores in order.
 2. students to see the optional/required courses they attend, select or cancel the optional courses, and check their scores.
 3. login and connnect to the system through TCP/IP
@@ -66,7 +68,7 @@ I use:
 * __Socket library__ to establish the connection between clients & servers
 * __Select() API__ to control the multiple clients' status.
 
-See the [document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
+[See the document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
 
 ## <h3 id='travel'>Travel Simulation System (3 People)</h3>
 
@@ -77,6 +79,7 @@ See the [document(CHINESE) and code](https://github.com/YeWenting/Results-Manage
 **Score:97**
 
 It's able to:
+
 1. Designed three route design algorithm, which are time, cost or both time and cost optimized, while passing through several given vertices too
 2. Display visitors' movement and routes by a fine-designed UI
 
@@ -85,5 +88,7 @@ I use:
 * __Reformulated simulated annealing algorithm__ to solve the NP-hard problem in a short time
 * __Branch and bound method__ to optimize the route both in time and cost
 
-While my teammates([Okersira](https://github.com/Okersira), [dongshenghua](https://github.com/dongshenghua?tab=following)) are responsible of the Qt's part. Thanks to them!
+While my teammates([Okersira](https://github.com/Okersira), [dongshenghua](https://github.com/dongshenghua?tab=following)) are responsible of the Qt's part. 
+
+[See the document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
 
