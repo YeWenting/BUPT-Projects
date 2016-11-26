@@ -1,6 +1,6 @@
 # BUPT Term Projects & Homework
 
-## Catalog
+### Catalog
 * [Term Projects](#pro)
   * [Java Exercise](#java)
   * [BUPT Contact](#site)
@@ -15,11 +15,11 @@
        
 # <h2 id='pro'>Term-Projects</h2>
 
-## <span id='java'>Java-Exercise</span>
+## <h3 id='java'>Java-Exercise</h3>
 
-### Java
+**Junior, Object-Oriented Analysis and Design (Java)**
 
-Junior, Object-Oriented Analysis and Design (Java)
+**Language: Java**
 
 Score: Unavailable(current)
 
@@ -27,12 +27,13 @@ It contains two homewroks now, and there will be a term project at the end of th
 
 See the [code](https://github.com/YeWenting/Java-Exercise)
 
-## <h2 id='site'>BUPT Contact</h2>
-### HTML, CSS, JavaScript, Python
+## <h3 id='site'>BUPT Contact</h3>
 
-Junior, Web Programming Techniques
+**Junior, Web Programming Techniques**
 
-Score: Unavailable(current)
+**Language: HTML, CSS, JavaScript, Python**
+
+**Score: Unavailable(current)**
 
 It can:
 * Sign up and sign in
@@ -45,12 +46,14 @@ I use:
 
 See the [code](https://github.com/YeWenting/yewenting.github.com)
 
-## <h2 id='results'>Results Management System</h2>
-### C++
+## <h3 id='results'>Results Management System</h3>
 
-Semophore, OOP Design and Practice C++(2)
 
-Score: 100
+**Semophore, OOP Design and Practice C++(2)**
+
+**Language: C++**
+
+**Score: 100**
 
 It allows:
 1. teachers to view the students who attend his class, edit scores and see scores in order.
@@ -65,12 +68,13 @@ I use:
 
 See the [document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
 
-## <h2 id='travel'>Travel Simulation System (3 People)</h2>
-### C++
+## <h3 id='travel'>Travel Simulation System (3 People)</h3>
 
-Semophore, Programming for Data Structures
+**Semophore, Programming for Data Structures**
 
-Score:97
+**Language: C++**
+
+**Score:97**
 
 It's able to:
 1. Designed three route design algorithm, which are time, cost or both time and cost optimized, while passing through several given vertices too
