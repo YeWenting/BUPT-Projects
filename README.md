@@ -27,7 +27,7 @@ It contains two homewroks now, and there will be a term project at the end of th
 
 See the [code](https://github.com/YeWenting/Java-Exercise)
 
-## <span id='site'>BUPT Contact</span>
+## <h2 id='site'>BUPT Contact</h2>
 ### HTML, CSS, JavaScript, Python
 
 Junior, Web Programming Techniques
@@ -45,7 +45,7 @@ I use:
 
 See the [code](https://github.com/YeWenting/yewenting.github.com)
 
-## <span id='results'>Results Management System</span>
+## <h2 id='results'>Results Management System</h2>
 ### C++
 
 Semophore, OOP Design and Practice C++(2)
@@ -65,7 +65,7 @@ I use:
 
 See the [document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
 
-## <span id='travel'>Travel Simulation System (3 People)</span>
+## <h2 id='travel'>Travel Simulation System (3 People)</h2>
 ### C++
 
 Semophore, Programming for Data Structures
