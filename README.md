@@ -1,12 +1,12 @@
 # BUPT Term Projects & Homework
 
-##Catalog
-
-* [Term Projects](#Term-Projects)
-       * [Java Exercise](#Java-Exercise)
-       * [BUPT Contact](#BUPT-Contact)
-       * [Travel Simulation System](#Travel-Simulation-System)
-       * [Results Management System](#Results-Management-System)
+## Catalog
+       
+* [Term-Projects](#Term-Projects)
+       * [Java-Exercise](#Java-Exercise)
+       * [BUPT-Contact](#BUPT-Contact)
+       * [Travel-Simulation-System](#Travel-Simulation-System)
+       * [Results-Management-System](#Results-Management-System)
 
 * [Homework](#Homework)
        * [OS](#OS)
@@ -15,8 +15,10 @@
        * [Assembly Execrise](#Assembly-Execrise)
        
 # Term-Projects
+
 ## Java-Exercise
-**Java**
+
+### Java
 
 Junior, Object-Oriented Analysis and Design (Java)
 
@@ -26,8 +28,8 @@ It contains two homewroks now, and there will be a term project at the end of th
 
 See the [code](https://github.com/YeWenting/Java-Exercise)
 
-##BUPT Contact
-**HTML, CSS, JavaScript, Python**
+## BUPT Contact
+### HTML, CSS, JavaScript, Python
 
 Junior, Web Programming Techniques
 
@@ -44,8 +46,8 @@ I use:
 
 See the [code](https://github.com/YeWenting/yewenting.github.com)
 
-##Results Management System
-**C++**
+## Results Management System
+### C++
 
 Semophore, OOP Design and Practice C++(2)
 
@@ -64,8 +66,8 @@ I use:
 
 See the [document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
 
-##Travel Simulation System (3 People)
-###C++
+## Travel Simulation System (3 People)
+### C++
 
 Semophore, Programming for Data Structures
 
