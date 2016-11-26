@@ -1,23 +1,21 @@
 # BUPT Term Projects & Homework
 
 ##Catalog
--Term Projects
 
-  -[Java Exercise](#Java Exercise)
-  
-  -[BUPT Contact](#BUPT Contact)
-  
-  -[Travel Simulation System](#Travel Simulation System)
-  
-  *[Results Management System](#Results Management System)
+* [Term Projects](#Term-Projects)
+       * [Java Exercise](#Java-Exercise)
+       * [BUPT Contact](#BUPT-Contact)
+       * [Travel Simulation System](#Travel-Simulation-System)
+       * [Results Management System](#Results-Management-System)
 
 * [Homework](#Homework)
        * [OS](#OS)
-       * [Design & Analysis of Algorithm](#Design & Analysis of Algorithm)
-       * [Computer Network](#Computer Network)
-       * [Assembly Execrise](#Assembly Execrise)
+       * [Design & Analysis of Algorithm](#Design&Analysis-of-Algorithm)
+       * [Computer Network](#Computer-Network)
+       * [Assembly Execrise](#Assembly-Execrise)
        
-##Java Exercise
+# Term-Projects
+## Java-Exercise
 **Java**
 
 Junior, Object-Oriented Analysis and Design (Java)
