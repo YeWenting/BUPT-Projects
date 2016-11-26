@@ -1,12 +1,11 @@
 # BUPT Term Projects & Homework
 
 ## Catalog
-
-* [Term-Projects](#Term-Projects)
- * [Java-Exercise](#Java-Exercise)
- * [BUPT-Contact](#2.2)
- * [Travel-Simulation-System](#Travel-Simulation-System)
- * [Results-Management-System](#Results-Management-System)
+* [Term Projects](#Term-Projects)
+  * Java Exercise
+  * BUPT Contact
+  * Travel Simulation System
+  * Results Management System
 
 * [Homework](#Homework)
  * [OS](#OS)
