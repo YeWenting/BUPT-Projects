@@ -90,5 +90,5 @@ I use:
 
 While my teammates([Okersira](https://github.com/Okersira), [dongshenghua](https://github.com/dongshenghua?tab=following)) are responsible of the Qt's part. 
 
-[See the document(CHINESE) and code](https://github.com/YeWenting/Results-Management-System)
+[See the document(CHINESE) and code](https://github.com/YeWenting/Travel-Simulation-System)
 
