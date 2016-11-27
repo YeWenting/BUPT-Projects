@@ -1,5 +1,5 @@
 # BUPT Term Projects & Homework
-
+*If you want to share your BUPT projects, you are totally welcomed to edit this README.md and pull a request*
 ### Catalog
 * [Term Projects](#pro)
   * [Java Exercise](#java)
@@ -22,7 +22,7 @@
 
 **Language: Java**
 
-Score: Unavailable(current)
+**Score: Unavailable(current)**
 
 It contains two homewroks now, and there will be a term project at the end of this semester
 
