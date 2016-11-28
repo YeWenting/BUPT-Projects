@@ -1,5 +1,13 @@
 # BUPT Term Projects & Homework
-*If you want to share your BUPT projects, you are totally welcomed to edit this README.md and pull a request*
+
+> *The purpose of this list is to reorganize my class projects, and you're welcomed to view and study from it.*
+
+> *But PLEASE __DONT__ hand in my code as your homework*
+
+> *Hope this project will make a difference.*
+
+> <span align=right> Included by [Awesome BUPT Projects](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects)</span>
+
 ### Catalog
 * [Term Projects](#pro)
   * [Java Exercise](#java)
