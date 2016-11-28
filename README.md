@@ -93,6 +93,6 @@ While my teammates([Okersira](https://github.com/Okersira), [dongshenghua](https
 [See the document(CHINESE) and code](https://github.com/YeWenting/Travel-Simulation-System)
 
 
-# License
+## License
 
 All codes in this repository are licensed under the terms you may find in the file named "LICENSE" in this directory.
