@@ -29,9 +29,9 @@
 
 *Junior, Object-Oriented Analysis and Design (Java)*
 
-__Language:__ Java
+Language: Java
 
-__Score:__ Unavailable(current)
+Score: Unavailable(current)
 
 It contains 7 homewroks.
 
@@ -48,9 +48,9 @@ The term project implements a book store app, which:
 
 *Junior, Web Programming Techniques*
 
-__Language:__ HTML, CSS, JavaScript, Python
+Language: HTML, CSS, JavaScript, Python
 
-__Score:__ Unavailable(current)
+Score: Unavailable(current)
 
 Features:
 
@@ -71,6 +71,7 @@ Features:
 **Back-end:**
 
 - Django Admin
+
 [See the code](https://github.com/YeWenting/IOT-website)
 
 
@@ -78,9 +79,9 @@ Features:
 
 *Junior, Web Programming Techniques*
 
-__Language:__ HTML, CSS, JavaScript, Python
+Language: HTML, CSS, JavaScript, Python
 
-__Score:__ Unavailable(current)
+Score: Unavailable(current)
 
 It can:
 * Sign up and sign in
@@ -98,9 +99,9 @@ I use:
 
 *Semophore, OOP Design and Practice C++(2)*
 
-__Language:__ C++
+Language: C++
 
-__Score:__ 100
+Score: 100
 
 It allows:
  
@@ -120,9 +121,9 @@ I use:
 
 *Semophore, Programming for Data Structures*
 
-__Language:__ C++
+Language: C++
 
-__Score:__ 97
+Score: 97
 
 It's able to:
 
