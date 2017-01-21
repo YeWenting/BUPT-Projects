@@ -11,6 +11,7 @@
 ### Catalog
 * [Term Projects](#pro)
   * [Java Exercise](#java)
+  * [IOT Control System](#IOT)
   * [BUPT Contact](#site)
   * [Travel Simulation System](#travel)
   * [Results Management System](#results)
@@ -26,23 +27,60 @@
 
 <h3 id='java'>Java-Exercise</h3>
 
-**Junior, Object-Oriented Analysis and Design (Java)**
+*Junior, Object-Oriented Analysis and Design (Java)*
 
-**Language: Java**
+__Language:__ Java
 
-**Score: Unavailable(current)**
+__Score:__ Unavailable(current)
 
-It contains two homewroks now, and there will be a term project at the end of this semester
+It contains 7 homewroks.
+
+The term project implements a book store app, which:
+
+- Use java.Swing & javafx to design UI
+- Singleton / Factory / Obeserver / Strategy Pattern
+- Book & Discount Management
+- Shopping Features
 
 [See the code](https://github.com/YeWenting/Java-Exercise)
 
+## <h3 id='IOT'>IOT Control System</h3>
+
+*Junior, Web Programming Techniques*
+
+__Language:__ HTML, CSS, JavaScript, Python
+
+__Score:__ Unavailable(current)
+
+Features:
+
+* User Management
+* Device Management
+* Simutaneously Sort & Pages & Search
+* Simulate Device to Submit Status
+* Warning
+* History Log
+
+**Front-end:**
+
+- Xenon Admin
+- jQuery DataTable
+- Toastr
+- Validate
+
+**Back-end:**
+
+- Django Admin
+[See the code](https://github.com/YeWenting/IOT-website)
+
+
 ## <h3 id='site'>BUPT Contact</h3>
 
-**Junior, Web Programming Techniques**
+*Junior, Web Programming Techniques*
 
-**Language: HTML, CSS, JavaScript, Python**
+__Language:__ HTML, CSS, JavaScript, Python
 
-**Score: Unavailable(current)**
+__Score:__ Unavailable(current)
 
 It can:
 * Sign up and sign in
@@ -53,16 +91,16 @@ I use:
 * __jquery-validation__ to verify the validation of the input message
 * __jquery-alert__ to send pretty alert block
 
-[See the code](https://github.com/YeWenting/yewenting.github.com)
+[See the code](https://github.com/YeWenting/BUPT-Contact)
 
 ## <h3 id='results'>Results Management System</h3>
 
 
-**Semophore, OOP Design and Practice C++(2)**
+*Semophore, OOP Design and Practice C++(2)*
 
-**Language: C++**
+__Language:__ C++
 
-**Score: 100**
+__Score:__ 100
 
 It allows:
  
@@ -80,11 +118,11 @@ I use:
 
 ## <h3 id='travel'>Travel Simulation System (3 People)</h3>
 
-**Semophore, Programming for Data Structures**
+*Semophore, Programming for Data Structures*
 
-**Language: C++**
+__Language:__ C++
 
-**Score:97**
+__Score:__ 97
 
 It's able to:
 
